@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "documents": [
+    {
+      "id": "57c4e049-ab98-46e4-b013-b3e85bc6549f",
+      "title": "Agnes 图像生成 DSH 插件（agnes-image-dsh）实现说明与接入排错",
+      "description": "将 Agnes 文生图/图生图接入 DSH 的插件包结构、Agnes API 请求体约束、profile 挂载步骤，以及 401 无效令牌的排查路径。",
+      "status": "active",
+      "filename": "agnes-dsh-agnes-image-dsh-57c4e049.md",
+      "relativePath": "documents/active/agnes-dsh-agnes-image-dsh-57c4e049.md",
+      "sourcePaths": [
+        "插件和软件安装与配置/agnes-image-dsh/index.js",
+        "插件和软件安装与配置/agnes-image-dsh/lib/agnes.mjs",
+        "插件和软件安装与配置/agnes-image-dsh/cli.mjs",
+        "插件和软件安装与配置/agnes-image-dsh/cordis.patch.yml",
+        "插件和软件安装与配置/agnes-image-dsh/README.md"
+      ],
+      "sessionIds": [
+        "2e2dc4f7-e894-457d-94df-514d35cffe49"
+      ],
+      "createdAt": "2026-10-23T12:42:15.912Z",
+      "updatedAt": "2026-10-23T12:42:15.912Z",
+      "lastAccessedAt": "2026-10-23T15:06:30.405Z",
+      "revision": 1,
+      "contentHash": "da6ac9a17c79986a6353a355f257579c3f12299aa09913a896202f00d99d3d0f",
+      "sizeBytes": 4444,
+      "memoryBodyIds": []
+    },
+    {
+      "id": "fce68145-1059-4e75-9f68-48f5ad8251dc",
+      "title": "Agnes 视频生成 DSH 插件（agnes-video-dsh）实现与接入结论",
+      "description": "把 Agnes Video 2.5 Flash 接入 DSH 的插件结构、双工具异步模型、503 重试与超时取舍、密钥解析顺序，以及真机验证证据。",
+      "status": "active",
+      "filename": "agnes-dsh-agnes-video-dsh-fce68145.md",
+      "relativePath": "documents/active/agnes-dsh-agnes-video-dsh-fce68145.md",
+      "sourcePaths": [
+        "插件和软件安装与配置/agnes-video-dsh/index.js",
+        "插件和软件安装与配置/agnes-video-dsh/lib/agnes.mjs",
+        "插件和软件安装与配置/agnes-video-dsh/lib/agnes-video.mjs",
+        "插件和软件安装与配置/agnes-video-dsh/cli.mjs",
+        "插件和软件安装与配置/agnes-video-dsh/cordis.patch.yml",
+        "插件和软件安装与配置/agnes-video-dsh/README.md",
+        "插件和软件安装与配置/agnes-video-dsh/package.json"
+      ],
+      "sessionIds": [
+        "717aef80-36a3-4f5c-8ccf-ec790c1a1eed"
+      ],
+      "createdAt": "2026-10-23T14:14:08.738Z",
+      "updatedAt": "2026-10-23T14:14:08.738Z",
+      "lastAccessedAt": "2026-10-24T07:41:32.309Z",
+      "revision": 1,
+      "contentHash": "ebfb574b42106f3f4c984f83dbd5f685d63b4fdad6e219c9763e72d136e3ed73",
+      "sizeBytes": 5613,
+      "memoryBodyIds": []
+    },
+    {
+      "id": "b0605396-a324-4156-9f37-8acd8f6de68f",
+      "title": "Windows 10 上 Docker Desktop 启动失败的 WSL 缺失诊断与修复（Fix-WSL2.ps1）",
+      "description": "Docker Desktop 报“WSL needs updating”实为 WSL 完全未安装的取证过程、修复脚本流程、重启续跑与网络栈限制。",
+      "status": "active",
+      "filename": "windows-10-docker-desktop-wsl-fix-wsl2-ps1-b0605396.md",
+      "relativePath": "documents/active/windows-10-docker-desktop-wsl-fix-wsl2-ps1-b0605396.md",
+      "sourcePaths": [
+        "wsl-docker-fix/Fix-WSL2.ps1"
+      ],
+      "sessionIds": [
+        "f5e470bf-7e76-4bb9-82be-8fad9d3cebd7"
+      ],
+      "createdAt": "2026-10-23T15:06:37.574Z",
+      "updatedAt": "2026-10-23T15:06:37.574Z",
+      "lastAccessedAt": "2026-10-24T08:03:31.381Z",
+      "revision": 1,
+      "contentHash": "bb2638518913f242969827495d249dd7a28e765ea87f732a3d60607473dd4f70",
+      "sizeBytes": 4394,
+      "memoryBodyIds": []
+    },
+    {
+      "id": "75ad464f-1af0-4059-9bae-eec491d6c90e",
+      "title": "DSH 记忆空间「未安装 CLI」排查：安装 mnemon CLI 与 embedding 可选性结论",
+      "description": "dsh-mnemon 记忆空间显示「未安装 CLI (可选)」的真实原因、mnemon CLI 安装位置与解析顺序、无需重启宿主的依据，以及 embedding 端点缺失时的降级行为；附 memos.exe 与 Mnemon 无关的取证。",
+      "status": "active",
+      "filename": "dsh-cli-mnemon-cli-embedding-75ad464f.md",
+      "relativePath": "documents/active/dsh-cli-mnemon-cli-embedding-75ad464f.md",
+      "sourcePaths": [],
+      "sessionIds": [
+        "d9a5e381-b2e7-430d-b852-da3fa36f09bc"
+      ],
+      "createdAt": "2026-10-23T15:55:23.845Z",
+      "updatedAt": "2026-10-23T15:55:23.845Z",
+      "lastAccessedAt": "2026-10-24T08:03:31.381Z",
+      "revision": 1,
+      "contentHash": "03e965b452365e823c79221ede492210b89586d705a8cddd0c65c2080494cb6f",
+      "sizeBytes": 5074,
+      "memoryBodyIds": []
+    },
+    {
+      "id": "03866303-cfe2-4a88-aa12-603abb3aedce",
+      "title": "Windows 10 上安装 Ollama 并为 DSH/mnemon 打通本地 embedding（nomic-embed-text + 隐藏自启动）",
+      "description": "Ollama 0.40.9 安装、嵌入模型拉取与三维度验证、ollama app.exe 起不来服务的坑、HKCU Run 隐藏自启替代计划任务与启动文件夹冲突的处理，含验收命令。",
+      "status": "active",
+      "filename": "windows-10-ollama-dsh-mnemon-embedding-nomic-emb-03866303.md",
+      "relativePath": "documents/active/windows-10-ollama-dsh-mnemon-embedding-nomic-emb-03866303.md",
+      "sourcePaths": [
+        "ollama-install/start-ollama-hidden.vbs",
+        "ollama-install/OllamaSetup.exe"
+      ],
+      "sessionIds": [
+        "89df850f-fe4a-4895-8a7f-2247212587a5"
+      ],
+      "createdAt": "2026-10-23T16:48:00.663Z",
+      "updatedAt": "2026-10-23T16:48:00.663Z",
+      "lastAccessedAt": "2026-10-23T16:48:00.663Z",
+      "revision": 1,
+      "contentHash": "7d7f92b77b8795d77ed6cdb2ed7564322b64df431bc0d266283f86bbdf400d4d",
+      "sizeBytes": 6723,
+      "memoryBodyIds": []
+    },
+    {
+      "id": "071e9b51-8220-4e44-bbed-26afdf490ab2",
+      "title": "DSH 用量/扣费「差 2 倍」排查：三层口径、价目表与子代理成本（2026-10-24）",
+      "description": "dsh-whale-widget 账本（余额净扣 / events 逐请求 / 会话 usage 重算）三层口径的对账结论、口径判据代码位置、价目表与峰谷排除、子代理成本占比，以及 0.71 不可复现的原因与待补证据。",
+      "status": "active",
+      "filename": "dsh-2-2026-10-24-071e9b51.md",
+      "relativePath": "documents/active/dsh-2-2026-10-24-071e9b51.md",
+      "sourcePaths": [
+        "reports/token-cost-reconciliation.md",
+        "reports/1-engineering-data-engineer.md",
+        "reports/3-engineering-data-visualization-engineer.md",
+        "charts/CHART-SPEC.md",
+        "charts/make_chart.py",
+        "findings-data-quality.md"
+      ],
+      "sessionIds": [
+        "00921f5d-f8c4-40da-bbc2-13ab62684f25"
+      ],
+      "createdAt": "2026-10-24T03:15:27.562Z",
+      "updatedAt": "2026-10-24T03:15:27.562Z",
+      "lastAccessedAt": "2026-10-24T08:03:31.381Z",
+      "revision": 1,
+      "contentHash": "90e7d1e61ff03497a66a8201fa9b258f6edb216582419e2b78807249d6e08060",
+      "sizeBytes": 6470,
+      "memoryBodyIds": []
+    },
+    {
+      "id": "e467ec7b-1942-46b3-96f5-ad3ce6c2d4d4",
+      "title": "Watt Toolkit 拦截证书导致 DSH 的 Node 进程不信任 GitHub（含 PortableGit 缺失）修复记录",
+      "description": "DSH 记忆空间 GitHub 登录报 UNABLE_TO_GET_ISSUER_CERT_LOCALLY 的根因（Watt Toolkit/Steam++ 本地反代自签 CA，Node 不读 Windows 证书库）、NODE_EXTRA_CA_CERTS 修复步骤、PortableGit 2.56 便携安装与验证方法，以及 PowerShell 5.1 无 BOM 编码坑。",
+      "status": "active",
+      "filename": "watt-toolkit-dsh-node-github-portablegit-e467ec7b.md",
+      "relativePath": "documents/active/watt-toolkit-dsh-node-github-portablegit-e467ec7b.md",
+      "sourcePaths": [
+        "git-install/setup-git-and-ca.ps1"
+      ],
+      "sessionIds": [
+        "3424050a-6924-4f0e-96d5-26aa5789cd45"
+      ],
+      "createdAt": "2026-10-24T07:41:44.745Z",
+      "updatedAt": "2026-10-24T07:41:44.745Z",
+      "lastAccessedAt": "2026-10-24T08:03:31.381Z",
+      "revision": 1,
+      "contentHash": "7d82c24871a364f4722c6c6d3ed6a5feea3310db847bc23b5321012cecdd0bf5",
+      "sizeBytes": 5115,
+      "memoryBodyIds": []
+    },
+    {
+      "id": "58c14909-a097-41cc-af90-509624583416",
+      "title": "GitHub 登录彻底打通（第二阶段）：Watt Toolkit 驱动/计划任务残留、hosts 归零与固定 IP 兜底",
+      "description": "接续 e467ec7b 的修复记录：Watt Toolkit 卸载后仍由计划任务+内核驱动 WFP 劫持 DNS、进程被 explorer 反复拉起、hosts 被写成 0 字节、国内 DNS 返回的 github.com IP 不可达；给出提权清理脚本、hosts 固定可达 IP、node 端到端验证判据与 DSH 必须完全重启的结论。",
+      "status": "active",
+      "filename": "github-watt-toolkit-hosts-ip-58c14909.md",
+      "relativePath": "documents/active/github-watt-toolkit-hosts-ip-58c14909.md",
+      "sourcePaths": [
+        "cleanup-watt-toolkit.ps1",
+        "cleanup-watt-toolkit-2.ps1",
+        "finalize-hosts.ps1",
+        "hosts-diag.ps1",
+        "pin-github-hosts.ps1",
+        "update-github-pin.ps1",
+        "final-hosts2.ps1"
+      ],
+      "sessionIds": [
+        "4c85831b-89bc-4194-bb70-13e870afdd15"
+      ],
+      "createdAt": "2026-10-24T08:03:53.974Z",
+      "updatedAt": "2026-10-24T08:03:53.974Z",
+      "lastAccessedAt": "2026-10-24T08:03:53.974Z",
+      "revision": 1,
+      "contentHash": "a67891d46fda6b9e7e9da341e52190842b6a9d2f18218843dbf2a5e52dbdf0c4",
+      "sizeBytes": 6820,
+      "memoryBodyIds": []
+    }
+  ]
+}

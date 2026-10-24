@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "bodies": [
+    {
+      "id": "default",
+      "name": "default",
+      "description": "Existing Mnemon Store discovered on disk.",
+      "active": true,
+      "createdAt": "2026-10-23T16:47:34.953Z",
+      "updatedAt": "2026-10-23T16:47:34.953Z"
+    }
+  ]
+}

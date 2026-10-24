@@ -1,0 +1,19 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "payload/runtime/memories.json": "868270e94bb3798e9c1e2d038acac93474e688cc04662df319e49ae2b7c66920",
+    "payload/runtime/USER.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "payload/runtime/MEMORY.md": "356a3fa6f3f59737d6f130f877d7c1b7f4f811291dc0976e70082f2ac15ae9fd",
+    "payload/documents/index.json": "b6d228e6726255c99764720e51c514f4ebc4347b9d4e1d3ef90e8255df48de3e",
+    "payload/documents/active/agnes-dsh-agnes-image-dsh-57c4e049.md": "f68a191b5a3126adde3c45a8b09b52cded465324a907d719cf141ffaa152bebd",
+    "payload/documents/active/agnes-dsh-agnes-video-dsh-fce68145.md": "78159d5d5691c3baebcbe5e7aa4bd6d773abb420d3e250db556aa7c8147d5607",
+    "payload/documents/active/windows-10-docker-desktop-wsl-fix-wsl2-ps1-b0605396.md": "2e23f6330dae139b69d7b86b71ce4a7e42697d81a0319f4f1ca40557dd56ee3a",
+    "payload/documents/active/dsh-cli-mnemon-cli-embedding-75ad464f.md": "9e74261e90ccce68d3721c10e9de00107b92623c05588a55b76589f69dc1bb58",
+    "payload/documents/active/windows-10-ollama-dsh-mnemon-embedding-nomic-emb-03866303.md": "753cdf42614a9052c8c660898d3b11ab93eba8bddb68d8c56228467fa6f7600e",
+    "payload/documents/active/dsh-2-2026-10-24-071e9b51.md": "726ed1ef301484819f51266298858cd7e35495d4ed5d1787e683a4bbaab56834",
+    "payload/documents/active/watt-toolkit-dsh-node-github-portablegit-e467ec7b.md": "4c147e115ee334ec2a225464a37011261aada05e1853b53899e419d45669cdb5",
+    "payload/documents/active/github-watt-toolkit-hosts-ip-58c14909.md": "47034a7e6cb10675bb81113e1ddd7f445382afbdcfec1ab1fd6110a7f1174c85",
+    "payload/data/.dsh-memory-bodies.json": "dfd25dfc217076b8a91a022697773c740c8a850632358b04da9634ce20a456ff",
+    "payload/data/default/mnemon.db": "828ff89fa9f40ebe969cd65ecc5042b4813ce84678cd1404b9e13157b87ff6b8"
+  }
+}

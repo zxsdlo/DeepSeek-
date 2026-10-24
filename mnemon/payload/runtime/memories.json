@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "content": "如果要用到联网查询，首先用Anysearch，如果超过1000次(含1000）就不能用",
+      "target": "memory",
+      "importance": "critical",
+      "created_at": "2026-10-23T14:28:44.031Z",
+      "updated_at": "2026-10-23T14:28:44.031Z",
+      "origin": {
+        "machine": "4afe742a-7de1-49b1-a67d-8dbe708eea11",
+        "label": "DESKTOP-9TNAEGF",
+        "at": "2026-10-23T14:28:44.031Z"
+      }
+    }
+  ]
+}
